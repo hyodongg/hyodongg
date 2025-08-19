@@ -1,5 +1,7 @@
-## Hi there 👋
+## HyoDong
 
+
+🎓 Studying Information & Communication Engineering at Dongguk Univ.
 <!--
 **hyodongg/hyodongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
