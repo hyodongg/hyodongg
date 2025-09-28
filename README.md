@@ -5,9 +5,18 @@
 <!-- gitanimals 펫 -->
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/hyodongg?pet-id=2" width="1000" height="120"/>
+    <img src="https://render.gitanimals.org/lines/hyodongg?pet-id=759994367843057289" width="600" height="120"/>
   </a>
 </p>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyodongg&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/hyodongg?pet-id=759994367843057289"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!-- ====== 3열 레이아웃 시작 ====== -->
 <table align="center">
