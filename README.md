@@ -2,17 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Hyodong's%20GitHub&fontSize=42&fontColor=ffffff&fontAlign=50&animation=twinkling" />
 </p>
 
-<!-- gitanimals 펫 -->
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/hyodongg?pet-id=759994367843057289" width="600" height="120"/>
-  </a>
-</p>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyodongg&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/hyodongg?pet-id=759994367843057289"
-    width="600"
+    width="1200"
     height="120"
   />
 </a>
