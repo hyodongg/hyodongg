@@ -39,10 +39,7 @@
 
 <p align="center">
   안녕하세요! 조효동입니다! 😊<br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&size=24&pause=1000&color=36BCF7&width=500&lines=Hello+Hyodong!+🐱;Welcome+to+my+GitHub!">
-
-  열심히 개발하고 있습니다! 🐇<br>
+  열심히 개발하고 있습니다! <br>
 </p>
 
 <br>
