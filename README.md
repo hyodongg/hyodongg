@@ -22,6 +22,7 @@
 <h3 align="center">✨ Follow Me ✨</h3>
 <p align="center">
   <a href="mailto:gyehdjhd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gyehdjhd@gmail.com"/></a>
+  <br>
   <a href="https://www.instagram.com/_h_dong_2/">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
@@ -38,6 +39,9 @@
 
 <p align="center">
   안녕하세요! 조효동입니다! 😊<br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&size=24&pause=1000&color=36BCF7&width=500&lines=Hello+Hyodong!+🐱;Welcome+to+my+GitHub!">
+
   열심히 개발하고 있습니다! 🐇<br>
 </p>
 
